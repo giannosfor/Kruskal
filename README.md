@@ -1,4 +1,5 @@
-he Problem
+The Problem
+
 Suppose we have a set of locations V = {vl, v2 ..... vn}, and we want to build a
 communication network on top of them. The network should be connected--
 there should be a path between every pair of nodes--but subiect to this’
